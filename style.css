@@ -99,8 +99,8 @@ h5{
 .small-icon1{
     width: 15px;
     position: absolute;
-    right: 200px;
-    top: 12px;
+    right: 202px;
+    top: 19px;
     opacity: 0.3;
 
 }
@@ -108,8 +108,8 @@ h5{
 .small-icon2{
     width: 25px;
     position: absolute;
-    right: 90px;
-    bottom: -322px;
+    right: 32px;
+    bottom: -376px;
     opacity: 0.3;
 
 }
@@ -117,7 +117,7 @@ h5{
 .small-icon3{
     width: 25px;
     position: absolute;
-    right: 50px;
+    right: 27px;
     top: 96px;
     opacity: 0.3;
     transform: rotate(45deg);
@@ -127,7 +127,7 @@ h5{
 .small-icon4{
     width: 250px;
     position: absolute;
-    left: -180px;
+    left: -218px;
     top: 120px;
     opacity: 0.3;
     
@@ -138,7 +138,7 @@ h5{
     width: 25px;
     position: absolute;
     left: 37px;
-    top: 403px;
+    top: 447px;
     opacity: 0.3;
     
 
