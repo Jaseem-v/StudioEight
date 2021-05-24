@@ -1,3 +1,3 @@
 # StudioEight
 
-preview the website :  https://jaseem753.github.io/StudioEight/ 
+preview the website :  https://jaseem-v.github.io/StudioEight/ 
